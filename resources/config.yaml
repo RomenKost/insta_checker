@@ -1,5 +1,3 @@
-TelegramApiId:
-TelegramApiHash:
-TelegramPhoneNumber:
-InstagramUsername:
-InstagramPassword:
+TelegramBotToken: ''
+InstagramUsername: ''
+InstagramPassword: ''
